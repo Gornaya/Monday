@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("new branch home");
-        System.out.println("Creeted in IDEA");
+        System.out.println("Creeeted in IDEA");
     }
 }
