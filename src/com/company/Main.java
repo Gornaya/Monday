@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("new branch home");
-        System.out.println("Created new bran A");
+        System.out.println("Created brunch");
     }
 }
