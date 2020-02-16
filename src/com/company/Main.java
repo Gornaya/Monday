@@ -3,7 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("My first code in repo");
-        System.out.println("New branch SUPER");
+        System.out.println("new branch home");
     }
 }
